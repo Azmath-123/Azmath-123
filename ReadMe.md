@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 A Passionate coder who Completed his Graduation And seeking for oppurtunities<br><br>🔭 I’m currently a student trying to learn and build different projects<br><br>👯 I’m looking to collaborate on any project available<br><br>🤝 I’m looking for help with Web development, Python and many others<br><br> Building the future, one line of code at a time 🚀💻, etc<br><br>💬 Ask me about  JavaScript,Python,ReactJS,ExpressJs,MONGODB<br><br>📫 How to reach me--- azmathsoheb@gmail.com<br><br>⚡ Fun fact I am the guy who loves to code and make lame jokes
+🤖 A Passionate coder who Completed his Graduation And seeking for oppurtunities<br><br>🔭 I’m currently a student trying to learn and build different projects<br><br>👯 I’m looking to collaborate on any project available<br><br>🤝 I’m looking for help with Web development, Python and many others<br><br>🚀💻 Building the future, one line of code at a time <br><br>💬 Ask me about  JavaScript, Python, ReactJS, ExpressJs,MongoDB<br><br>📫 How to reach me--- azmathsoheb@gmail.com<br><br>⚡ Fun fact I am the guy who loves to code and make lame jokes
 
 
 ## 🌐 Socials:
